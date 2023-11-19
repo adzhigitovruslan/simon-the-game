@@ -11,8 +11,8 @@ A great Simon game with its 4 big illuminated buttons, several difficulty Levels
 
 ## Tech stack
 
-- JS
-- SCSS
+- Vue2
+- Sass/SCSS
 - HTML
 
 ## Project setup
