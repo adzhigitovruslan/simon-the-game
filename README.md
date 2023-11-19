@@ -1,4 +1,19 @@
-# simon-the-game
+## Simon-the-game
+
+<img src="./screenshot.png">
+
+
+### Link to the project: https://adzhigitovruslan.github.io/simon-the-game/
+
+## Description
+
+A great Simon game with its 4 big illuminated buttons, several difficulty Levels. Come and play the classic and famous Simon game!
+
+## Tech stack
+
+- JS
+- SCSS
+- HTML
 
 ## Project setup
 ```
